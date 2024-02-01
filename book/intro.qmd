@@ -1,0 +1,87 @@
+---
+jupyter: envpy39
+---
+
+# Inleiding
+
+# Onderzoeksleerlijn HBO Bedrijfskunde
+
+## Aanleiding
+
+> De vraag naar onderwijs neemt wereldwijd toe naarmate nationale economieën steeds meer gebaseerd worden op kennis en het tempo van technologische veranderingen blijft versnellen. Snelgroeiende en steeds jongere bevolkingen in veel delen van de wereld zetten ook druk op instellingen voor hoger onderwijs om op nieuwe en creatieve manieren te reageren [@hanna2003organizational].
+
+## Doel
+
+## Structuur
+
+## Cultuurontwikkeling binnen de opleiding
+
+Hier beschrijf je de actiepunten gericht op cultuurontwikkeling...
+
+Kenmerken van constructivistische leeromgevingen [@jonassen1994]:
+
+1.  Bied diverse representaties uit het echte leven om overmatige simplificatie te vermijden.
+
+2.  Geef de natuurlijke complexiteit van de werkelijkheid weer.
+
+3.  Benadruk de creatie van kennis, in plaats van een replicatie van kennis.
+
+4.  Accentueer het gebruik van echte opdrachten die direct toepasbaar zijn, in tegenstelling tot vage en abstracte aanwijzingen, binnen het kader van constructivistisch leren.
+
+5.  Creëer leeromgevingen die de echte wereld of praktijkgevallen nabootsen, in plaats van het volgen van vastgestelde instructiereeksen.
+
+6.  Stimuleer diepgaande reflectie op ervaringen.
+
+7.  Bied ruimte voor context- en inhoud-afhankelijke kennisconstructie.
+
+8.  Ondersteun samenwerkingsgerichte kenniscreatie door sociale samenwerking, zonder competitie tussen gebruikers aan te moedigen.
+
+Visie op leren:\
+\
+-
+
+### Actiepunten Tabel
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
+
+## Professionalisering van docenten
+
+Hier beschrijf je de actiepunten gericht op de professionalisering van docenten...
+
+### Actiepunten Tabel
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
+
+## Ontwikkeling van studentcompetenties
+
+Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetenties...
+
+### Actiepunten Tabel
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
+
+## Integratie met de praktijk
+
+Hier beschrijf je de actiepunten gericht op integratie met de praktijk...
+
+### Actiepunten Tabel
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
+
+## Structurering van het curriculum
+
+Hier beschrijf je de actiepunten gericht op de structurering van het curriculum...
+
+### Actiepunten Tabel
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
