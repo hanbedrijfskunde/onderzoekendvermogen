@@ -2,6 +2,6 @@
 jupyter: envpy39
 ---
 
-# Titelpagina {.unnumbered}
+# HAN Bedrijfskunde {.unnumbered}
 
-Tekst
+![](images/titleimage.jpeg)

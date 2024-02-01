@@ -4,12 +4,11 @@ project:
 
 book:
   title: "Onderzoeksleerlijn HAN Bedrijfskunde"
-  author: "Witek ten Hove"
+  author: "Yvonne Peterman & Witek ten Hove"
   date: "2/1/2024"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
     - references.qmd
 
 bibliography: references.bib

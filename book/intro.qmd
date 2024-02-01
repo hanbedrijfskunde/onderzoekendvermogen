@@ -36,10 +36,32 @@ Kenmerken van constructivistische leeromgevingen [@jonassen1994]:
 
 8.  Ondersteun samenwerkingsgerichte kenniscreatie door sociale samenwerking, zonder competitie tussen gebruikers aan te moedigen.
 
-Visie op leren:\
-\
--
+Visie op leren [@schneckenberg2011web]:
 
+-   Leren is alomtegenwoordig. Het vindt plaats in verschillende contexten.
+
+-   Lerenden worden geleidelijk de organisatoren van hun eigen leerproces.
+
+-   Leren is levenslang proces en vindt slechts voor een beperkt gedeelte plaats binnen het onderwijs.
+
+-   Leren is een collaboratief proces en vindt plaats binnen communities.
+
+-   Leren is een informeel proces en vindt plaats op verschillende plekken en momenten.\
+    \
+
+```{=html}
+<div class="ratio ratio-16x9">
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/VAq7qJ2nzAQ?si=6dSSGMidWUQIXhQu"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+            </div>
+```
 ### Actiepunten Tabel
 
 |     | Actiepunt   | Beschrijving                 | NB   |
@@ -49,6 +71,26 @@ Visie op leren:\
 ## Professionalisering van docenten
 
 Hier beschrijf je de actiepunten gericht op de professionalisering van docenten...
+
+### Visie excellent docentschap.
+
+De docent is een onderwijsontwerper die [@manciaracina2022designing]:
+
+-   Beschikt over tot een uitgebreid professioneel netwerk, externe kennis en generieke capaciteiten.
+
+-   Tegemoet komt aan de behoefte aan op maat gemaakte leerervaringen en -resultaten.
+
+-   Gebruik maakt van innovatieve methodes om leerlingen te betrekken bij en te laten deelnemen aan het leerproces.
+
+-   Interactieve, technologierijke methodieken inzet bij het ontwerpen van leerervaringen.
+
+De taken van de docent zijn:
+
+-   Het organiseren van activiteiten die het begrip en het gebruik van gevalideerde informatie bevorderen om nieuwe kennis te genereren of doelstellingen te bereiken.
+
+-   Het volgen van studentenprocessen en -acties en het aanreiken van gedetailleerde en tijdige feedback op individuele leerprocessen.
+
+-   Het beoordelen van de leerresultaten en leerprocessen van de studenten.
 
 ### Actiepunten Tabel
 
