@@ -6,6 +6,8 @@ jupyter: envpy39
 
 Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetenties...
 
+Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
+
 ```{=html}
 <table class="table table-striped">
     <thead>
@@ -41,6 +43,8 @@ Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetent
     </tbody>
   </table>
 ```
+
+
 ```{=html}
 <table class="table table-bordered">
     <thead>
@@ -67,6 +71,8 @@ Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetent
     </tbody>
   </table>
 ```
+
+
 ```{=html}
 <div class="row">
 
