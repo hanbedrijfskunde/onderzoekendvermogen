@@ -85,6 +85,7 @@ Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
                     <h6 class="card-subtitle mb-2 text-muted">Startende Bedrijfskundige</h6>
                     <p class="card-text">Project: Efficiëntieanalyse bij Klein Kledingbedrijf.</p>
                     <p class="font-italic">"Dit project hielp me inzien hoe cruciaal het is om elk aspect van een bedrijf te begrijpen, hoe klein ook!"</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Emma heeft haar onderzoekend vermogen laten zien door grondig marktonderzoek te doen op basis van data die ze van de organisatie heeft gekregen en deze te analyseren voor het project.</p>
                 </div>
             </div>
         </div>
@@ -98,6 +99,7 @@ Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
                     <h6 class="card-subtitle mb-2 text-muted">Gevorderde Bedrijfskundige</h6>
                     <p class="card-text">Project: Marktanalyse voor Tech Startup.</p>
                     <p class="font-italic">"De uitdaging om nieuwe markten te identificeren was zowel boeiend als leerzaam, en toonde het belang van data-analyse aan."</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Lucas heeft zijn onderzoekend vermogen laten zien door uitgebreid marktonderzoek uit te voeren en innovatieve benaderingen voor dataverzameling en -analyse toe te passen.</p>
                 </div>
             </div>
         </div>
@@ -111,6 +113,7 @@ Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
                     <h6 class="card-subtitle mb-2 text-muted">Expert Bedrijfskundige</h6>
                     <p class="card-text">Project: Strategisch Plan voor Duurzame Energie.</p>
                     <p class="font-italic">"Werken aan dit project heeft me niet alleen bedrijfskundige vaardigheden bijgebracht, maar ook hoe je een echte impact kunt maken op de wereld."</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Sophia heeft haar onderzoekend vermogen bewezen door een geavanceerd strategisch plan te ontwikkelen op basis van diepgaand onderzoek naar duurzame energieoplossingen.</p>
                 </div>
             </div>
         </div>
