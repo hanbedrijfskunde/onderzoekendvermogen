@@ -29,7 +29,7 @@ Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
       <tr>
         <td>2 - Op het kruispunt van externe afhankelijkheid en zelfstandigheid <br>['Intermediate learning']</td>
         <td>
-          – Ontwikkelend bewustzijn van multipele perspectieven en onzekerheid<br>
+          – Ontwikkelend bewustzijn van meervoudige perspectieven en onzekerheid<br>
           – Ontwikkelend bewustzijn van eigen waarden en identiteit en van de beperkingen van afhankelijke relaties.
         </td>
       </tr>
