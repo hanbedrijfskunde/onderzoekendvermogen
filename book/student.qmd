@@ -1,0 +1,118 @@
+---
+jupyter: envpy39
+---
+
+# Ontwikkeling van studentcompetenties
+
+Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetenties...
+
+```{=html}
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Ontwikkelingsniveau</th>
+        <th scope="col">Studentenkenmerken</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1 - Afhankelijkheid van externe verwijzingen <br>['Foundations']</td>
+        <td>
+          – Kennis gezien als ‘zeker’<br>
+          – Afhankelijk van ‘autoriteiten’ (bijv. docenten, ouders) als bron van kennis<br>
+          – Extern gedefinieerd waardesysteem en identiteit<br>
+          – Handelen gerelateerd aan het verkrijgen van goedkeuring.
+        </td>
+      </tr>
+      <tr>
+        <td>2 - Op het kruispunt van externe afhankelijkheid en zelfstandigheid <br>['Intermediate learning']</td>
+        <td>
+          – Ontwikkelend bewustzijn van multipele perspectieven en onzekerheid<br>
+          – Ontwikkelend bewustzijn van eigen waarden en identiteit en van de beperkingen van afhankelijke relaties.
+        </td>
+      </tr>
+      <tr>
+        <td>3 - Zelfstandig auteurschap <br>['Capstone']</td>
+        <td>
+          – Bewustzijn van kennis als contextgebonden<br>
+          – Ontwikkeling van een intern waardesysteem en een gevoel van de aanwezigheid van de eigen capaciteiten
+        </td>
+      </tr>
+    </tbody>
+  </table>
+```
+```{=html}
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Onderzoekend vermogen</th>
+        <th scope="col">Niveau 1</th>
+        <th scope="col">Niveau 2</th>
+        <th scope="col">Niveau 3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Vaardigheden</th>
+        <td>Basisbegrip van bedrijfskundige concepten; kan onderzoeksresultaten bestuderen en bespreken.</td>
+        <td>Begrijpt en integreert recente onderzoeksresultaten; kan problemen herkennen en diagnosticeren.</td>
+        <td>Voert zelfstandig onderzoek uit en past kennis toe om complexe problemen op te lossen; kan reflecteren op en evalueren van onderzoeksprocessen.</td>
+      </tr>
+      <tr>
+        <th scope="row">Houding</th>
+        <td>Afhankelijk van externe autoriteiten voor kennis; ziet kennis als zeker en onbetwistbaar.</td>
+        <td>Ontwikkelt bewustzijn van meerdere perspectieven en waarden; minder afhankelijk van externe bevestiging.</td>
+        <td>Zelfstandig in waardensysteem en kennisopvatting; bewust van kennis als contextgebonden en in staat tot authentieke, wederkerige relaties.</td>
+      </tr>
+    </tbody>
+  </table>
+```
+```{=html}
+<div class="row">
+
+        <!-- Niveau 1 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/emma.png" alt="Afbeelding van Emma">
+                <div class="card-body">
+                    <h5 class="card-title">Emma Jansen - Niveau 1</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Startende Bedrijfskundige</h6>
+                    <p class="card-text">Project: Efficiëntieanalyse bij Klein Kledingbedrijf.</p>
+                    <p class="font-italic">"Dit project hielp me inzien hoe cruciaal het is om elk aspect van een bedrijf te begrijpen, hoe klein ook!"</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 2 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/lucas.png" alt="Afbeelding van Lucas">
+                <div class="card-body">
+                    <h5 class="card-title">Lucas de Vries - Niveau 2</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Gevorderde Bedrijfskundige</h6>
+                    <p class="card-text">Project: Marktanalyse voor Tech Startup.</p>
+                    <p class="font-italic">"De uitdaging om nieuwe markten te identificeren was zowel boeiend als leerzaam, en toonde het belang van data-analyse aan."</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 3 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/sophia.png" alt="Afbeelding van Sofia">
+                <div class="card-body">
+                    <h5 class="card-title">Sophia Rodriguez - Niveau 3</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Expert Bedrijfskundige</h6>
+                    <p class="card-text">Project: Strategisch Plan voor Duurzame Energie.</p>
+                    <p class="font-italic">"Werken aan dit project heeft me niet alleen bedrijfskundige vaardigheden bijgebracht, maar ook hoe je een echte impact kunt maken op de wereld."</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+```
+## Actiepunten studentcompetenties
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

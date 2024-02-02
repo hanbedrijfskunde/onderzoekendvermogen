@@ -1,0 +1,33 @@
+---
+jupyter: envpy39
+---
+
+# Professionalisering van docenten
+
+Hier beschrijf je de actiepunten gericht op de professionalisering van docenten...
+
+## Visie excellent docentschap.
+
+De docent is een onderwijsontwerper die [@manciaracina2022designing]:
+
+-   Beschikt over een uitgebreid professioneel netwerk, externe kennis en generieke capaciteiten.
+
+-   Tegemoet komt aan de behoefte aan op maat gemaakte leerervaringen en -resultaten.
+
+-   Gebruik maakt van innovatieve methodes om leerlingen te betrekken bij en te laten deelnemen aan het leerproces.
+
+-   Interactieve, technologierijke methodieken inzet bij het ontwerpen van leerervaringen.
+
+De taken van de docent zijn:
+
+-   Het organiseren van activiteiten die het begrip en het gebruik van gevalideerde informatie bevorderen om nieuwe kennis te genereren of doelstellingen te bereiken.
+
+-   Het volgen van studentenprocessen en -acties en het aanreiken van gedetailleerde en tijdige feedback op individuele leerprocessen.
+
+-   Het beoordelen van de leerresultaten en leerprocessen van de studenten.
+
+## Actiepunten docentschap
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

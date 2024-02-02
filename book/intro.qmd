@@ -4,126 +4,16 @@ jupyter: envpy39
 
 # Inleiding
 
-# Onderzoeksleerlijn HBO Bedrijfskunde
-
 ## Aanleiding
 
 > De vraag naar onderwijs neemt wereldwijd toe naarmate nationale economieën steeds meer gebaseerd worden op kennis en het tempo van technologische veranderingen blijft versnellen. Snelgroeiende en steeds jongere bevolkingen in veel delen van de wereld zetten ook druk op instellingen voor hoger onderwijs om op nieuwe en creatieve manieren te reageren [@hanna2003organizational].
 
+> Maatschappelijk gezien is er een groeiende behoefte aan professionals die kunnen reflecteren op hun handelen en kunnen bijdragen aan het ontwikkelen van toepasbare 'supercomplexe' kennis voor het werkveld [@cf3e9cfc94ed40dd85b5f71fc60af00d].
+
 ## Doel
 
+Het doel is een leerlijn in te richten die op een effectieve wijze de ontwikkeling bevordert van onderzoekend vermogen bij docenten en studenten.
+
+![Vier vormen van ‘undergraduate’ onderzoeksonderwijs naar de aard van de studentenparticipatie en de focus op onderzoeksinhoud of -processen [@cf3e9cfc94ed40dd85b5f71fc60af00d].](images/vormen.png)
+
 ## Structuur
-
-## Cultuurontwikkeling binnen de opleiding
-
-Hier beschrijf je de actiepunten gericht op cultuurontwikkeling...
-
-Kenmerken van constructivistische leeromgevingen [@jonassen1994]:
-
-1.  Bied diverse representaties uit het echte leven om overmatige simplificatie te vermijden.
-
-2.  Geef de natuurlijke complexiteit van de werkelijkheid weer.
-
-3.  Benadruk de creatie van kennis, in plaats van een replicatie van kennis.
-
-4.  Accentueer het gebruik van echte opdrachten die direct toepasbaar zijn, in tegenstelling tot vage en abstracte aanwijzingen, binnen het kader van constructivistisch leren.
-
-5.  Creëer leeromgevingen die de echte wereld of praktijkgevallen nabootsen, in plaats van het volgen van vastgestelde instructiereeksen.
-
-6.  Stimuleer diepgaande reflectie op ervaringen.
-
-7.  Bied ruimte voor context- en inhoud-afhankelijke kennisconstructie.
-
-8.  Ondersteun samenwerkingsgerichte kenniscreatie door sociale samenwerking, zonder competitie tussen gebruikers aan te moedigen.
-
-Visie op leren [@schneckenberg2011web]:
-
--   Leren is alomtegenwoordig. Het vindt plaats in verschillende contexten.
-
--   Lerenden worden geleidelijk de organisatoren van hun eigen leerproces.
-
--   Leren is levenslang proces en vindt slechts voor een beperkt gedeelte plaats binnen het onderwijs.
-
--   Leren is een collaboratief proces en vindt plaats binnen communities.
-
--   Leren is een informeel proces en vindt plaats op verschillende plekken en momenten.\
-    \
-
-```{=html}
-<div class="ratio ratio-16x9">
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/VAq7qJ2nzAQ?si=6dSSGMidWUQIXhQu"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen
-              ></iframe>
-            </div>
-```
-### Actiepunten Tabel
-
-|     | Actiepunt   | Beschrijving                 | NB   |
-|-----|-------------|------------------------------|------|
-| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
-
-## Professionalisering van docenten
-
-Hier beschrijf je de actiepunten gericht op de professionalisering van docenten...
-
-### Visie excellent docentschap.
-
-De docent is een onderwijsontwerper die [@manciaracina2022designing]:
-
--   Beschikt over een uitgebreid professioneel netwerk, externe kennis en generieke capaciteiten.
-
--   Tegemoet komt aan de behoefte aan op maat gemaakte leerervaringen en -resultaten.
-
--   Gebruik maakt van innovatieve methodes om leerlingen te betrekken bij en te laten deelnemen aan het leerproces.
-
--   Interactieve, technologierijke methodieken inzet bij het ontwerpen van leerervaringen.
-
-De taken van de docent zijn:
-
--   Het organiseren van activiteiten die het begrip en het gebruik van gevalideerde informatie bevorderen om nieuwe kennis te genereren of doelstellingen te bereiken.
-
--   Het volgen van studentenprocessen en -acties en het aanreiken van gedetailleerde en tijdige feedback op individuele leerprocessen.
-
--   Het beoordelen van de leerresultaten en leerprocessen van de studenten.
-
-### Actiepunten Tabel
-
-|     | Actiepunt   | Beschrijving                 | NB   |
-|-----|-------------|------------------------------|------|
-| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
-
-## Ontwikkeling van studentcompetenties
-
-Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetenties...
-
-### Actiepunten Tabel
-
-|     | Actiepunt   | Beschrijving                 | NB   |
-|-----|-------------|------------------------------|------|
-| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
-
-## Integratie met de praktijk
-
-Hier beschrijf je de actiepunten gericht op integratie met de praktijk...
-
-### Actiepunten Tabel
-
-|     | Actiepunt   | Beschrijving                 | NB   |
-|-----|-------------|------------------------------|------|
-| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
-
-## Structurering van het curriculum
-
-Hier beschrijf je de actiepunten gericht op de structurering van het curriculum...
-
-### Actiepunten Tabel
-
-|     | Actiepunt   | Beschrijving                 | NB   |
-|-----|-------------|------------------------------|------|
-| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

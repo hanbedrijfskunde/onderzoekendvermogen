@@ -1,0 +1,13 @@
+---
+jupyter: envpy39
+---
+
+# Integratie met de praktijk
+
+Hier beschrijf je de actiepunten gericht op integratie met de praktijk...
+
+## Actiepunten praktijk
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

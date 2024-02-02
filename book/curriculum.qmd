@@ -1,0 +1,13 @@
+---
+jupyter: envpy39
+---
+
+# Structurering van het curriculum
+
+Hier beschrijf je de actiepunten gericht op de structurering van het curriculum...
+
+## Actiepunten curriculum
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |
