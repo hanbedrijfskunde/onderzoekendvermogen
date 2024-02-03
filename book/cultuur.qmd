@@ -20,21 +20,29 @@ Visie op leren [@schneckenberg2011web]:
 
 ```{=html}
 <div class="ratio ratio-16x9">
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/VAq7qJ2nzAQ?si=6dSSGMidWUQIXhQu"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen
-              ></iframe>
-            </div>
-            <br>
-            <div class="ratio ratio-16x9">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/NB-hLOD2AVg?si=PqFm1RSXA8fPQGZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            <br>
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/VAq7qJ2nzAQ?si=6dSSGMidWUQIXhQu"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
+<br>
+<div class="ratio ratio-16x9">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/NB-hLOD2AVg?si=PqFm1RSXA8fPQGZ4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
 ```
 
 ## Actiepunten cultuurontwikkeling
