@@ -85,7 +85,7 @@ Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
                     <h6 class="card-subtitle mb-2 text-muted">Startende Bedrijfskundige</h6>
                     <p class="card-text">Project: Efficiëntieanalyse bij klein kledingbedrijf.</p>
                     <p class="font-italic">"Dit project hielp me inzien hoe cruciaal het is om elk aspect van een bedrijf te begrijpen, hoe klein ook!"</p>
-                    <p><strong>Onderzoekend Vermogen</strong>: Emma heeft haar onderzoekend vermogen laten zien door grondige analyses te doen op basis van data die ze van de organisatie heeft gekregen en deze te analyseren voor het project.</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Emma heeft haar onderzoekend vermogen laten zien door grondig onderzoek te doen op basis van data die ze van de organisatie heeft gekregen en deze te analyseren voor het project.</p>
                 </div>
             </div>
         </div>
