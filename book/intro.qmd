@@ -17,3 +17,5 @@ Het doel is een leerlijn in te richten die op een effectieve wijze de ontwikkeli
 ![Vier vormen van ‘undergraduate’ onderzoeksonderwijs naar de aard van de studentenparticipatie en de focus op onderzoeksinhoud of -processen [@cf3e9cfc94ed40dd85b5f71fc60af00d].](images/vormen.png)
 
 ## Structuur
+
+
