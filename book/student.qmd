@@ -63,7 +63,7 @@ Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
         <td>Voert zelfstandig onderzoek uit en past kennis toe om complexe problemen op te lossen; kan reflecteren op en evalueren van onderzoeksprocessen.</td>
       </tr>
       <tr>
-        <th scope="row">Houding</th>
+        <th scope="row">Ontwikkelingsniveau</th>
         <td>Afhankelijk van externe autoriteiten voor kennis; ziet kennis als zeker en onbetwistbaar.</td>
         <td>Ontwikkelt bewustzijn van meerdere perspectieven en waarden; minder afhankelijk van externe bevestiging.</td>
         <td>Zelfstandig in waardensysteem en kennisopvatting; bewust van kennis als contextgebonden en in staat tot authentieke, wederkerige relaties.</td>
