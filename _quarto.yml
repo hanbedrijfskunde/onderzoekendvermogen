@@ -3,7 +3,7 @@ project:
   output-dir: book
 
 book:
-  title: "Onderzoeksleerlijn HAN Bedrijfskunde"
+  title: "Onderzoeksleerlijn"
   author: "Yvonne Peterman & Witek ten Hove"
   date: "2/1/2024"
   chapters:

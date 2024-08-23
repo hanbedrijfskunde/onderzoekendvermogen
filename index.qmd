@@ -4,4 +4,4 @@ jupyter: envpy39
 
 # HAN Bedrijfskunde {.unnumbered}
 
-![](images/titleimage.jpeg)
+![](images/titleimage.jpeg){.mt-5}

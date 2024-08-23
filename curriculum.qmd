@@ -4,7 +4,7 @@ jupyter: envpy39
 
 # Structurering van het curriculum
 
-Kenmerken van constructivistische leeromgevingen [@jonassen1994]:
+Kenmerken van constructivistische leeromgevingen [@jonassen1999designing]:
 
 1.  Bied diverse representaties uit het echte leven om overmatige simplificatie te vermijden.
 

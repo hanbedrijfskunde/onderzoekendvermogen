@@ -2,9 +2,9 @@
 jupyter: envpy39
 ---
 
-# Integratie met de praktijk
+# Integratie met het werk- en onderzoeksveld
 
-Hier beschrijf je de actiepunten gericht op integratie met de praktijk...
+Hier beschrijf je de actiepunten gericht op integratie met het werk- en onderzoeksveld.
 
 ## Actiepunten praktijk
 
