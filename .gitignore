@@ -1,4 +1,4 @@
+/env/
+/.quarto/
+/.env/
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
