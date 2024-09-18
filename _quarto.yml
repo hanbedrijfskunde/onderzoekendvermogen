@@ -6,6 +6,7 @@ book:
   title: "Werkdocument Onderzoeksleerlijn"
   author: "Yvonne Peterman & Witek ten Hove"
   date: "2/1/2024"
+  language: nl
   chapters:
     - index.qmd
     - intro.qmd
@@ -28,3 +29,4 @@ format:
     documentclass: scrreprt
 
 editor: visual
+lang: nl

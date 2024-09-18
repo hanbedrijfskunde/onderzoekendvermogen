@@ -28,9 +28,6 @@ De taken van de docent zijn:
 
 ## Actiepunten docentschap
 
-|     | Actiepunt                | Beschrijving                                                                                                                                     | NB                                                                                                   |
-|-----|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 1   | Onderzoekend docentschap | Stimuleer de transitie naar een docent-onderzoeker profiel binnen het team.                                                                      | Het HAY-profiel voor docenten vereist dat docenten ook als onderzoeker kunnen optreden.              |
-| 2   | Scholing in onderzoek    | Organiseer scholing voor docenten gericht op op het gebied van kwalitatieve en kwantitatieve onderzoeksmethoden.                                 | Informatievaardigheden, gebruik van literatuur, methodologische expertise, tooling.                  |
-| 3   | Integratie in onderwijs  | Integreer onderzoeksvaardigheden in het reguliere onderwijs door docenten te trainen in het ontwerpen van praktijkgerichte onderzoeksopdrachten. | Dit helpt bij het ontwikkelen van adaptief, onderzoekend en ontwerpend vermogen bij studenten.       |
-| 4   | Feedback en evaluatie    | Zorg voor regelmatige feedback- en evaluatiemomenten om de onderzoekscompetenties van docenten verder te ontwikkelen.                            | Door intervisie en kalibratie binnen het team wordt de kwaliteit van onderzoeksvaardigheden geborgd. |
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

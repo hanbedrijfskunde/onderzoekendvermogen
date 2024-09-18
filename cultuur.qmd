@@ -44,19 +44,8 @@ Visie op leren [@schneckenberg2011web]:
 </div>
 <br>
 ```
-
 ## Actiepunten cultuurontwikkeling
 
 |     | Actiepunt   | Beschrijving                 | NB   |
 |-----|-------------|------------------------------|------|
-| 1   | Cultuurverandering         | Creëer een cultuur die de ontwikkeling van onderzoeksvaardigheden bij docenten ondersteunt.             | Dit vraagt om een onderzoekscultuur waarbinnen docenten gestimuleerd worden om hun onderzoekscompetenties continu te ontwikkelen en toe te passen in de praktijk. |
-| 2   | Actieve betrokkenheid en kleinschalige experimenten | Betrek studenten en docenten actief bij het vormgeven van de cultuur binnen de opleiding door hen te laten deelnemen aan pilots en experimenten. Dit kan bijvoorbeeld door discussiegroepen of workshops waarin ze bijdragen aan de vaststelling van waarden en normen. | Pilots helpen medewerkers om de nieuwe cultuur of processen te accepteren en geven ruimte voor bijsturing op basis van feedback. Dit draagt bij aan een sterker gevoel van eigenaarschap en een betere afstemming tussen gewenste en ervaren cultuur. |
-| 3   | Integratie van authenticiteit en externe samenwerking in onderzoeksinitiatieven | Zorg ervoor dat praktijkopdrachten authentieke, maatschappelijke vraagstukken adresseren en versterk onderzoeksinitiatieven door samen te werken met externe partners zoals organisaties, lectoraten en andere hogescholen. | Dit ondersteunt de ontwikkeling van adaptief vermogen bij studenten en docenten, essentieel voor hun toekomstige wendbaarheid, en vergroot de impact en zichtbaarheid van de onderzoekscultuur. |
-| 4   | Ondersteun flexibiliteit en wendbaarheid in leer- en werkmethoden | Bevorder een cultuur van flexibiliteit en wendbaarheid binnen de opleiding door het aanmoedigen van innovatief denken en het snel kunnen aanpassen aan veranderingen. Dit kan worden bereikt door het implementeren van agile werkmethoden en het stimuleren van continue professionele ontwikkeling. | Dit is essentieel om de opleiding en haar deelnemers in staat te stellen zich snel aan te passen aan nieuwe uitdagingen en kansen, wat cruciaal is voor zowel het onderwijs als het onderzoekend vermogen. |
-| 5   | Gebruik maken van bestaande initiatieven | Herpositioneer bestaande activiteiten of initiatieven zodat ze aansluiten bij de nieuwe onderzoekscultuur. | Dit helpt om snel zichtbare successen te boeken zonder nieuwe middelen te hoeven aanboren. |
-| 6   | Communicatie en bewustwording verhogen | Verhoog de communicatie en bewustwording over hoe verschillende initiatieven bijdragen aan de onderzoekscultuur. | Regelmatige communicatie zoals town halls of workshops zorgt ervoor dat iedereen in de organisatie begrijpt hoe de verschillende acties samenhangen. |
-| 7   | Evaluatie en bijstelling van leerlijn | Voer regelmatig evaluaties uit van de onderzoeksleerlijn en pas deze aan op basis van feedback van studenten en docenten om ervoor te zorgen dat deze blijft aansluiten bij de praktijkbehoeften. | Continue verbetering is noodzakelijk om de relevantie en effectiviteit van de leerlijn te waarborgen. |
-
-
-
-
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

@@ -6,9 +6,19 @@ jupyter: envpy39
 
 ## Aanleiding
 
-> De vraag naar onderwijs neemt wereldwijd toe naarmate nationale economieën steeds meer gebaseerd worden op kennis en het tempo van technologische veranderingen blijft versnellen. Snelgroeiende en steeds jongere bevolkingen in veel delen van de wereld zetten ook druk op instellingen voor hoger onderwijs om op nieuwe en creatieve manieren te reageren [@hanna2003organizational].
+> Als hoger onderwijsinstelling dragen wij een maatschappelijke verantwoordelijkheid om onze studenten voor te bereiden op een dynamische en competitieve arbeidsmarkt. In de huidige tijd, waarin economische en technologische ontwikkelingen elkaar in rap tempo opvolgen, is de noodzaak om het onderzoekend vermogen van collega's en studenten te versterken een urgente prioriteit voor de opleiding HAN Bedrijfskunde.
 
-> Maatschappelijk gezien is er een groeiende behoefte aan professionals die kunnen reflecteren op hun handelen en kunnen bijdragen aan het ontwikkelen van toepasbare 'supercomplexe' kennis voor het werkveld [@cf3e9cfc94ed40dd85b5f71fc60af00d].
+Uit de analyse van arbeidsproductiviteitscijfers in Nederland blijkt dat de groei in productiviteit de afgelopen decennia sterk is afgenomen ​[@statistiek_arbeidsproductiviteit_2024]. Bovendien wijst onderzoek naar de Europese concurrentiepositie op een zorgwekkende daling in innovatie en economische groei ​[@noauthor_eu_nodate; also @erixon_if_nodate]. Terwijl landen als de Verenigde Staten en China hun technologische voorsprong verder uitbouwen, blijft Europa – en daarmee ook Nederland – steeds verder achter. Deze economische realiteit legt een grote druk op het hoger onderwijs om studenten beter voor te bereiden op een toekomst waarin onderzoeksvaardigheden en innovatievermogen doorslaggevend zijn voor economische en maatschappelijke vooruitgang.
+
+::: {#fig-maps layout-ncol="2"}
+![](images/chart2004.png)
+
+![](images/chart2024.png)
+
+Marktkapitalisering van de 100 grootste bedrijven in 2004 en 2024.
+:::
+
+De wereldwijde verschuivingen in verdienvermogen en invloed, zoals geïllustreerd in de meegeleverde grafieken, tonen aan dat de machtsbalans in het voordeel van technologiebedrijven en kennisintensieve sectoren is verschoven. Om in deze veranderende wereld een betekenisvolle bijdrage te kunnen leveren, moet onze opleiding meer dan ooit investeren in het ontwikkelen van onderzoekend vermogen. Studenten moeten de vaardigheden ontwikkelen om niet alleen te reageren op bestaande kennis, maar ook om zelfstandig nieuwe kennis te genereren en innovaties te ontwikkelen die bijdragen aan de oplossing van complexe vraagstukken.
 
 ## Doel
 
@@ -20,14 +30,14 @@ Het doel is een leerlijn in te richten die op een effectieve wijze de ontwikkeli
 
 De onderzoeksleerlijn voor HAN Bedrijfskunde is opgebouwd rond verschillende kernonderdelen die systematisch bijdragen aan de ontwikkeling van zowel docenten als studenten op het gebied van onderzoeksvaardigheden. De structuur is ontworpen om een holistische benadering te bieden, waarbij theorie, praktijk en reflectie samenkomen. De leerlijn is opgebouwd uit de volgende elementen:
 
-1. **Cultuurontwikkeling binnen de opleiding**: Dit onderdeel richt zich op het creëren van een ondersteunende cultuur die de ontwikkeling van onderzoekend vermogen stimuleert. Het omvat actiepunten gericht op het bevorderen van een onderzoekscultuur, het betrekken van studenten en docenten bij het vormgeven van deze cultuur, en het integreren van externe samenwerkingen en authenticiteit in onderzoeksinitiatieven.
+1.  **Cultuurontwikkeling binnen de opleiding**: Dit onderdeel richt zich op het creëren van een ondersteunende cultuur die de ontwikkeling van onderzoekend vermogen stimuleert. Het omvat actiepunten gericht op het bevorderen van een onderzoekscultuur, het betrekken van studenten en docenten bij het vormgeven van deze cultuur, en het integreren van externe samenwerkingen en authenticiteit in onderzoeksinitiatieven.
 
-2. **Professionalisering van docenten**: Hier wordt de focus gelegd op het ontwikkelen van de onderzoekscompetenties van docenten. Dit onderdeel behandelt het stimuleren van onderzoekend docentschap, het aanbieden van scholing in onderzoeksmethoden, en het integreren van onderzoeksvaardigheden in het reguliere onderwijs. Tevens worden evaluatie- en feedbackmechanismen geïmplementeerd om continue verbetering te waarborgen.
+2.  **Professionalisering van docenten**: Hier wordt de focus gelegd op het ontwikkelen van de onderzoekscompetenties van docenten. Dit onderdeel behandelt het stimuleren van onderzoekend docentschap, het aanbieden van scholing in onderzoeksmethoden, en het integreren van onderzoeksvaardigheden in het reguliere onderwijs. Tevens worden evaluatie- en feedbackmechanismen geïmplementeerd om continue verbetering te waarborgen.
 
-3. **Ontwikkeling van studentcompetenties**: Dit element is gericht op het bevorderen van de onderzoeksvaardigheden van studenten door middel van praktijkgericht onderzoek, reflectie en ethische bewustwording. Er wordt aandacht besteed aan het stimuleren van interdisciplinaire samenwerking en het geleidelijk overdragen van eigenaarschap van onderzoeksprojecten van de docent-onderzoeker naar de student.
+3.  **Ontwikkeling van studentcompetenties**: Dit element is gericht op het bevorderen van de onderzoeksvaardigheden van studenten door middel van praktijkgericht onderzoek, reflectie en ethische bewustwording. Er wordt aandacht besteed aan het stimuleren van interdisciplinaire samenwerking en het geleidelijk overdragen van eigenaarschap van onderzoeksprojecten van de docent-onderzoeker naar de student.
 
-4. **Integratie met de praktijk**: Dit onderdeel zorgt ervoor dat studenten tijdens hun opleiding regelmatig in aanraking komen met de praktijk, zodat ze hun onderzoeksvaardigheden kunnen toepassen en verder ontwikkelen in realistische omgevingen. Dit wordt gerealiseerd door intensieve samenwerking met bedrijven en andere stakeholders.
+4.  **Integratie met de praktijk**: Dit onderdeel zorgt ervoor dat studenten tijdens hun opleiding regelmatig in aanraking komen met de praktijk, zodat ze hun onderzoeksvaardigheden kunnen toepassen en verder ontwikkelen in realistische omgevingen. Dit wordt gerealiseerd door intensieve samenwerking met bedrijven en andere stakeholders.
 
-5. **Structurering van het curriculum**: Het curriculum is zodanig gestructureerd dat het de natuurlijke complexiteit van de werkelijkheid weerspiegelt en studenten stimuleert om diepgaande, context-afhankelijke kennis te creëren. Hierbij wordt gebruik gemaakt van constructivistische leeromgevingen en opdrachten die nauw aansluiten bij de praktijk.
+5.  **Structurering van het curriculum**: Het curriculum is zodanig gestructureerd dat het de natuurlijke complexiteit van de werkelijkheid weerspiegelt en studenten stimuleert om diepgaande, context-afhankelijke kennis te creëren. Hierbij wordt gebruik gemaakt van constructivistische leeromgevingen en opdrachten die nauw aansluiten bij de praktijk.
 
 Elk van deze elementen is onderverdeeld in specifieke actiepunten die zijn afgestemd op de verschillende niveaus van onderzoeksontwikkeling en die bijdragen aan het realiseren van de doelen van de onderzoeksleerlijn. Deze modulaire opzet maakt het mogelijk om de leerlijn flexibel aan te passen aan de behoeften van studenten en docenten, terwijl er tegelijkertijd wordt gezorgd voor een consistente ontwikkeling van onderzoeksvaardigheden door de gehele opleiding heen.
