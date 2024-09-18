@@ -1,0 +1,36 @@
+---
+jupyter: envpy39
+---
+
+# Professionalisering van docenten
+
+Hier beschrijf je de actiepunten gericht op de professionalisering van docenten...
+
+## Visie excellent docentschap.
+
+De docent is een onderwijsontwerper die [@manciaracina2022designing]:
+
+-   beschikt over een uitgebreid professioneel netwerk, ruime externe kennis en de vereiste generieke capaciteiten.
+
+-   tegemoet komt aan de behoefte aan op maat gemaakte leerervaringen en -resultaten.
+
+-   gebruik maakt van innovatieve methodes om studenten te betrekken bij en te laten deelnemen aan het leerproces.
+
+-   interactieve, technologierijke methodieken inzet bij het ontwerpen van leerervaringen.
+
+De taken van de docent zijn:
+
+-   Het organiseren van activiteiten die het begrip en het gebruik van gevalideerde informatie bevorderen om nieuwe kennis te genereren of doelstellingen te bereiken.
+
+-   Het volgen van studentenprocessen en -acties en het aanreiken van gedetailleerde en tijdige feedback op individuele leerprocessen.
+
+-   Het beoordelen van de leerresultaten en leerprocessen van de studenten.
+
+## Actiepunten docentschap
+
+|     | Actiepunt                | Beschrijving                                                                                                                                     | NB                                                                                                   |
+|-----|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| 1   | Onderzoekend docentschap | Stimuleer de transitie naar een docent-onderzoeker profiel binnen het team.                                                                      | Het HAY-profiel voor docenten vereist dat docenten ook als onderzoeker kunnen optreden.              |
+| 2   | Scholing in onderzoek    | Organiseer scholing voor docenten gericht op op het gebied van kwalitatieve en kwantitatieve onderzoeksmethoden.                                 | Informatievaardigheden, gebruik van literatuur, methodologische expertise, tooling.                  |
+| 3   | Integratie in onderwijs  | Integreer onderzoeksvaardigheden in het reguliere onderwijs door docenten te trainen in het ontwerpen van praktijkgerichte onderzoeksopdrachten. | Dit helpt bij het ontwikkelen van adaptief, onderzoekend en ontwerpend vermogen bij studenten.       |
+| 4   | Feedback en evaluatie    | Zorg voor regelmatige feedback- en evaluatiemomenten om de onderzoekscompetenties van docenten verder te ontwikkelen.                            | Door intervisie en kalibratie binnen het team wordt de kwaliteit van onderzoeksvaardigheden geborgd. |

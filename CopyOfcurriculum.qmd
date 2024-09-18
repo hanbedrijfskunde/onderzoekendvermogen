@@ -1,0 +1,29 @@
+---
+jupyter: envpy39
+---
+
+# Structurering van het curriculum
+
+Kenmerken van constructivistische leeromgevingen [@jonassen1999designing]:
+
+1.  Bied diverse representaties uit het echte leven om overmatige simplificatie te vermijden.
+
+2.  Geef de natuurlijke complexiteit van de werkelijkheid weer.
+
+3.  Benadruk de creatie van kennis, in plaats van een replicatie van kennis.
+
+4.  Accentueer het gebruik van echte opdrachten die direct toepasbaar zijn, in tegenstelling tot vage en abstracte aanwijzingen.
+
+5.  Creëer leeromgevingen die de echte wereld of praktijkgevallen nabootsen, in plaats van het volgen van vastgestelde instructiereeksen.
+
+6.  Stimuleer diepgaande reflectie op ervaringen.
+
+7.  Bied ruimte voor context- en inhoud-afhankelijke kennisconstructie.
+
+8.  Ondersteun samenwerkingsgerichte kenniscreatie door sociale samenwerking, zonder competitie tussen gebruikers aan te moedigen.
+
+## Actiepunten curriculum
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

@@ -1,0 +1,13 @@
+---
+jupyter: envpy39
+---
+
+# Integratie met het werk- en onderzoeksveld
+
+Hier beschrijf je de actiepunten gericht op integratie met het werk- en onderzoeksveld.
+
+## Actiepunten praktijk
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Actiepunt 1 | Beschrijving van actiepunt 1 | NB 1 |

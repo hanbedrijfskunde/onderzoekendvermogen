@@ -1,0 +1,131 @@
+---
+jupyter: envpy39
+---
+
+# Ontwikkeling van studentcompetenties
+
+Hier beschrijf je de actiepunten gericht op de ontwikkeling van studentcompetenties...
+
+Uit [@cf3e9cfc94ed40dd85b5f71fc60af00d]
+
+```{=html}
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Ontwikkelingsniveau</th>
+        <th scope="col">Studentenkenmerken</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1 - Afhankelijkheid van externe verwijzingen <br>['Foundations']</td>
+        <td>
+          – Kennis gezien als ‘zeker’<br>
+          – Afhankelijk van ‘autoriteiten’ (bijv. docenten, ouders) als bron van kennis<br>
+          – Extern gedefinieerd waardesysteem en identiteit<br>
+          – Handelen gerelateerd aan het verkrijgen van goedkeuring.
+        </td>
+      </tr>
+      <tr>
+        <td>2 - Op het kruispunt van externe afhankelijkheid en zelfstandigheid <br>['Intermediate learning']</td>
+        <td>
+          – Ontwikkelend bewustzijn van meervoudige perspectieven en onzekerheid<br>
+          – Ontwikkelend bewustzijn van eigen waarden en identiteit en van de beperkingen van afhankelijke relaties.
+        </td>
+      </tr>
+      <tr>
+        <td>3 - Zelfstandig auteurschap <br>['Capstone']</td>
+        <td>
+          – Bewustzijn van kennis als contextgebonden<br>
+          – Ontwikkeling van een intern waardesysteem en een gevoel van de aanwezigheid van de eigen capaciteiten
+        </td>
+      </tr>
+    </tbody>
+  </table>
+```
+
+
+```{=html}
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Onderzoekend vermogen</th>
+        <th scope="col">Niveau 1</th>
+        <th scope="col">Niveau 2</th>
+        <th scope="col">Niveau 3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Vaardigheden</th>
+        <td>Basisbegrip van bedrijfskundige concepten; kan onderzoeksresultaten bestuderen en bespreken.</td>
+        <td>Begrijpt en integreert recente onderzoeksresultaten; kan problemen herkennen en diagnosticeren.</td>
+        <td>Voert zelfstandig onderzoek uit en past kennis toe om complexe problemen op te lossen; kan reflecteren op en evalueren van onderzoeksprocessen.</td>
+      </tr>
+      <tr>
+        <th scope="row">Ontwikkelingsniveau</th>
+        <td>Afhankelijk van externe autoriteiten voor kennis; ziet kennis als zeker en onbetwistbaar.</td>
+        <td>Ontwikkelt bewustzijn van meerdere perspectieven en waarden; minder afhankelijk van externe bevestiging.</td>
+        <td>Zelfstandig in waardensysteem en kennisopvatting; bewust van kennis als contextgebonden en in staat tot authentieke, wederkerige relaties.</td>
+      </tr>
+    </tbody>
+  </table>
+```
+
+
+```{=html}
+<div class="row">
+
+        <!-- Niveau 1 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/emma.png" alt="Afbeelding van Emma">
+                <div class="card-body">
+                    <h5 class="card-title">Emma Jansen - Niveau 1</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Startende Bedrijfskundige</h6>
+                    <p class="card-text">Project: Efficiëntieanalyse bij klein kledingbedrijf.</p>
+                    <p class="font-italic">"Dit project hielp me inzien hoe cruciaal het is om elk aspect van een bedrijf te begrijpen, hoe klein ook!"</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Emma heeft haar onderzoekend vermogen laten zien door grondig onderzoek te doen op basis van data die ze van de organisatie heeft gekregen en deze te analyseren voor het project.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 2 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/lucas.png" alt="Afbeelding van Lucas">
+                <div class="card-body">
+                    <h5 class="card-title">Lucas de Vries - Niveau 2</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Gevorderde Bedrijfskundige</h6>
+                    <p class="card-text">Project: Marktanalyse voor tech startup.</p>
+                    <p class="font-italic">"De uitdaging om nieuwe markten te identificeren was zowel boeiend als leerzaam, en toonde het belang van data-analyse aan."</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Lucas heeft zijn onderzoekend vermogen laten zien door uitgebreid marktonderzoek uit te voeren en innovatieve benaderingen voor dataverzameling en -analyse toe te passen.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Niveau 3 Card -->
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="images/sophia.png" alt="Afbeelding van Sofia">
+                <div class="card-body">
+                    <h5 class="card-title">Sophia Rodriguez - Niveau 3</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Expert Bedrijfskundige</h6>
+                    <p class="card-text">Project: Strategisch plan voor duurzame energie.</p>
+                    <p class="font-italic">"Werken aan dit project heeft me niet alleen bedrijfskundige vaardigheden bijgebracht, maar ook hoe je een echte impact kunt maken op de wereld."</p>
+                    <p><strong>Onderzoekend Vermogen</strong>: Sophia heeft haar onderzoekend vermogen bewezen door een geavanceerd strategisch plan te ontwikkelen op basis van diepgaand onderzoek naar duurzame energieoplossingen.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+```
+## Actiepunten studentcompetenties
+
+|     | Actiepunt   | Beschrijving                 | NB   |
+|-----|-------------|------------------------------|------|
+| 1   | Versterken van informatie- en methodologische vaardigheden | Studenten trainen in het zoeken, evalueren en toepassen van wetenschappelijke literatuur, en hen bewust maken van verschillende onderzoeksmethoden zoals design thinking, actieonderzoek en CIMO. Dit bereidt hen voor op het kritisch analyseren van bestaande kennis, het formuleren van relevante onderzoeksvragen en het methodisch onderbouwen van hun onderzoek. | Dit kan door middel van workshops, integratie in het curriculum en aandacht voor validiteit en betrouwbaarheid van onderzoeksmethoden. |
+| 2   | Faciliteren van praktijkgericht onderzoek | Studenten meer mogelijkheden bieden om hun onderzoeksvaardigheden te ontwikkelen door praktijkgericht onderzoek uit te voeren in samenwerking met bedrijven en andere stakeholders, waardoor ze ervaring opdoen met echte vraagstukken. | Dit kan door middel van stages, projecten en samenwerking met externe partners. |
+| 3   | Ontwikkelen van reflectieve vaardigheden | Studenten stimuleren om regelmatig te reflecteren op hun onderzoeksmethodes, keuzes en uitkomsten, en hen aanmoedigen om kritisch na te denken over hun eigen rol in het onderzoeksproces. | Integratie van reflectiemomenten in het curriculum en begeleiding door docenten. |
+| 4   | Integratie van ethiek en persoonlijke waarden in onderzoek | Studenten bewust maken van ethische dilemma's in het onderzoeksproces en hen ondersteunen bij het ontwikkelen van een intern waardesysteem. Dit omvat het systematisch benaderen en analyseren van ethische kwesties en het maken van weloverwogen beslissingen gebaseerd op hun eigen waarden. | Dit kan door casestudies, ethische discussies en reflectie op persoonlijke waarden in de lessen te integreren. |
+| 5   | Stimuleren van interdisciplinaire samenwerking en ontwikkeling eigenaarschap | Het bevorderen van samenwerking tussen studenten van verschillende disciplines om complexe, multidimensionale vraagstukken aan te pakken en verschillende perspectieven te integreren in hun onderzoek.| De docent-onderzoeker neemt in eerste instantie het eigenaarschap van projecten, begeleidt het proces, en draagt dit eigenaarschap geleidelijk over aan studenten naarmate hun onderzoekend vermogen zich verder ontwikkelt. |
