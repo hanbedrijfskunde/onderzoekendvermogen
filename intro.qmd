@@ -29,7 +29,11 @@ Om hieraan een betekenisvolle bijdrage te kunnen leveren, moet onze opleiding me
 
 Het doel is een leerlijn in te richten die op een effectieve wijze de ontwikkeling bevordert van onderzoekend vermogen bij docenten en studenten.
 
-![Vier vormen van ‘undergraduate’ onderzoeksonderwijs naar de aard van de studentenparticipatie en de focus op onderzoeksinhoud of -processen [@cf3e9cfc94ed40dd85b5f71fc60af00d].](images/vormen.png)
+::: {#fig-vier-vormen}
+![](images/vormen.png)
+
+Vier vormen van ‘undergraduate’ onderzoeksonderwijs naar de aard van de studentenparticipatie en de focus op onderzoeksinhoud of -processen [@cf3e9cfc94ed40dd85b5f71fc60af00d].
+:::
 
 ## Structuur
 
