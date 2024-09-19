@@ -6,9 +6,9 @@ jupyter: envpy39
 
 ## Aanleiding
 
-> Als hoger onderwijsinstelling dragen wij een maatschappelijke verantwoordelijkheid om onze studenten voor te bereiden op een dynamische en competitieve arbeidsmarkt. In de huidige tijd, waarin economische en technologische ontwikkelingen elkaar in rap tempo opvolgen, is de noodzaak om het onderzoekend vermogen van collega's en studenten te versterken een urgente prioriteit voor de opleiding HAN Bedrijfskunde.
+> De Nederlandse samenleving staat voor een aantal complexe maatschappelijke uitdagingen. De vergrijzing legt een steeds grotere druk op de zorg, terwijl klimaatverandering vraagt om duurzame oplossingen in energie, mobiliteit en grondstoffen. Tegelijkertijd is er sprake van toenemende polarisering in de samenleving, wat de sociale cohesie onder druk zet. Deze ontwikkelingen vereisen niet alleen innovatieve oplossingen, maar ook een samenleving die in staat is om kritisch te onderzoeken, te leren en zich aan te passen aan de veranderende omstandigheden.
 
-Uit de analyse van arbeidsproductiviteitscijfers in Nederland blijkt dat de groei in productiviteit de afgelopen decennia sterk is afgenomen ​[@statistiek_arbeidsproductiviteit_2024]. Bovendien wijst onderzoek naar de Europese concurrentiepositie op een zorgwekkende daling in innovatie en economische groei ​[@noauthor_eu_nodate; also @erixon_if_nodate]. Terwijl landen als de Verenigde Staten en China hun technologische voorsprong verder uitbouwen, blijft Europa – en daarmee ook Nederland – steeds verder achter. Deze economische realiteit legt een grote druk op het hoger onderwijs om studenten beter voor te bereiden op een toekomst waarin onderzoeksvaardigheden en innovatievermogen doorslaggevend zijn voor economische en maatschappelijke vooruitgang.
+Internationaal zien we dat andere regio’s, zoals de Verenigde Staten en China, beter gepositioneerd zijn om deze uitdagingen aan te gaan. Zij investeren stelselmatig in onderzoek en innovatie, wat zich vertaalt in hogere productiviteit en economisch groeivermogen [@statistiek_arbeidsproductiviteit_2024; en @noauthor_eu_nodate].
 
 ::: {#fig-maps layout-ncol="2"}
 ![](images/chart2004.png)
@@ -18,7 +18,12 @@ Uit de analyse van arbeidsproductiviteitscijfers in Nederland blijkt dat de groe
 Marktkapitalisering van de 100 grootste bedrijven in 2004 en 2024.
 :::
 
-De wereldwijde verschuivingen in verdienvermogen en invloed, zoals geïllustreerd in de meegeleverde grafieken, tonen aan dat de machtsbalans in het voordeel van technologiebedrijven en kennisintensieve sectoren is verschoven. Om in deze veranderende wereld een betekenisvolle bijdrage te kunnen leveren, moet onze opleiding meer dan ooit investeren in het ontwikkelen van onderzoekend vermogen. Studenten moeten de vaardigheden ontwikkelen om niet alleen te reageren op bestaande kennis, maar ook om zelfstandig nieuwe kennis te genereren en innovaties te ontwikkelen die bijdragen aan de oplossing van complexe vraagstukken.
+Als hogeschool hebben we de maatschappelijke verantwoordelijkheid om:
+
+-   door excellent onderwijs studenten een optimale start te geven in een dynamische en competitieve arbeidsmarkt;
+-   door hoogwaardig onderzoek actief bij te dragen aan het innovatievermogen en de duurzame ontwikkeling van Nederland.
+
+Om hieraan een betekenisvolle bijdrage te kunnen leveren, moet onze opleiding meer dan ooit investeren in het ontwikkelen van onderzoekend vermogen. Docenten en studenten moeten de vaardigheden ontwikkelen om niet alleen te reageren op bestaande kennis, maar ook om zelfstandig nieuwe kennis te genereren en innovaties te ontwikkelen die bijdragen aan de oplossing van complexe vraagstukken.
 
 ## Doel
 
