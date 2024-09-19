@@ -6,7 +6,7 @@ jupyter: envpy39
 
 ## Aanleiding
 
-> De Nederlandse samenleving staat voor een aantal complexe maatschappelijke uitdagingen. De vergrijzing legt een steeds grotere druk op de zorg, terwijl klimaatverandering vraagt om duurzame oplossingen in energie, mobiliteit en grondstoffen. Tegelijkertijd is er sprake van toenemende polarisering in de samenleving, wat de sociale cohesie onder druk zet. Deze ontwikkelingen vereisen niet alleen innovatieve oplossingen, maar ook een samenleving die in staat is om kritisch te onderzoeken, te leren en zich aan te passen aan de veranderende omstandigheden.
+> De Nederlandse samenleving staat voor een aantal complexe maatschappelijke uitdagingen. De vergrijzing legt een steeds grotere druk op de zorg en de arbeidsmarkt, terwijl klimaatverandering vraagt om duurzame oplossingen in energie, mobiliteit en grondstoffen. Tegelijkertijd is er sprake van toenemende polarisering in de samenleving, wat de sociale cohesie onder druk zet. Deze ontwikkelingen vereisen niet alleen innovatieve oplossingen, maar ook een samenleving die in staat is om kritisch te onderzoeken, te leren en zich aan te passen aan de veranderende omstandigheden.
 
 Internationaal zien we dat andere regio’s, zoals de Verenigde Staten en China, beter gepositioneerd zijn om deze uitdagingen aan te gaan. Zij investeren stelselmatig een groter deel van hun welvaart in onderzoek en innovatie, wat zich vertaalt in hogere productiviteit en economisch groeivermogen [@statistiek_arbeidsproductiviteit_2024; en @noauthor_eu_nodate].
 
